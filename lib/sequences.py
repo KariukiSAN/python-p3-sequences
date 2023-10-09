@@ -13,4 +13,4 @@ def print_fibonacci(length):
 
 if __name__ == "__main__":
 
-    print_fibonacci(10)
+    print_fibonacci(9)
